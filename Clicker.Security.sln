@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker.Security.API", "Clicker.Security.API\Clicker.Security.API.csproj", "{1CAC2F36-9386-473C-A05A-01EE5C57E493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker.Security.DAL", "Clicker.Security.DAL\Clicker.Security.DAL.csproj", "{45561C70-0F35-42E9-AC40-C0E1C61D6D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker.Security.BL", "Clicker.Security.BL\Clicker.Security.BL.csproj", "{1D222C6A-459D-4D3F-BCA0-0732D4B4839E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker.Security.Domain", "Clicker.Security.Domain\Clicker.Security.Domain.csproj", "{229963C3-29A1-4E42-91D3-A7E4AFFC905C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAC2F36-9386-473C-A05A-01EE5C57E493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAC2F36-9386-473C-A05A-01EE5C57E493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAC2F36-9386-473C-A05A-01EE5C57E493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAC2F36-9386-473C-A05A-01EE5C57E493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45561C70-0F35-42E9-AC40-C0E1C61D6D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45561C70-0F35-42E9-AC40-C0E1C61D6D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45561C70-0F35-42E9-AC40-C0E1C61D6D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45561C70-0F35-42E9-AC40-C0E1C61D6D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D222C6A-459D-4D3F-BCA0-0732D4B4839E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D222C6A-459D-4D3F-BCA0-0732D4B4839E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D222C6A-459D-4D3F-BCA0-0732D4B4839E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D222C6A-459D-4D3F-BCA0-0732D4B4839E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229963C3-29A1-4E42-91D3-A7E4AFFC905C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229963C3-29A1-4E42-91D3-A7E4AFFC905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229963C3-29A1-4E42-91D3-A7E4AFFC905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229963C3-29A1-4E42-91D3-A7E4AFFC905C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
